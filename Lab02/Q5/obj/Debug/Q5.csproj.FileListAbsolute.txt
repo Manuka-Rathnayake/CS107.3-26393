@@ -1,0 +1,8 @@
+C:\Data\Github\CS107.3-26393\Lab02\Q5\bin\Debug\Q5.exe.config
+C:\Data\Github\CS107.3-26393\Lab02\Q5\bin\Debug\Q5.exe
+C:\Data\Github\CS107.3-26393\Lab02\Q5\bin\Debug\Q5.pdb
+C:\Data\Github\CS107.3-26393\Lab02\Q5\obj\Debug\Q5.csproj.AssemblyReference.cache
+C:\Data\Github\CS107.3-26393\Lab02\Q5\obj\Debug\Q5.csproj.SuggestedBindingRedirects.cache
+C:\Data\Github\CS107.3-26393\Lab02\Q5\obj\Debug\Q5.csproj.CoreCompileInputs.cache
+C:\Data\Github\CS107.3-26393\Lab02\Q5\obj\Debug\Q5.exe
+C:\Data\Github\CS107.3-26393\Lab02\Q5\obj\Debug\Q5.pdb
