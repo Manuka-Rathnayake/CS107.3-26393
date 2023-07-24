@@ -1,0 +1,8 @@
+C:\Data\Github\CS107.3-26393\Lab01\Q1\bin\Debug\Q1.exe.config
+C:\Data\Github\CS107.3-26393\Lab01\Q1\bin\Debug\Q1.exe
+C:\Data\Github\CS107.3-26393\Lab01\Q1\bin\Debug\Q1.pdb
+C:\Data\Github\CS107.3-26393\Lab01\Q1\obj\Debug\Q1.csproj.AssemblyReference.cache
+C:\Data\Github\CS107.3-26393\Lab01\Q1\obj\Debug\Q1.csproj.SuggestedBindingRedirects.cache
+C:\Data\Github\CS107.3-26393\Lab01\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+C:\Data\Github\CS107.3-26393\Lab01\Q1\obj\Debug\Q1.exe
+C:\Data\Github\CS107.3-26393\Lab01\Q1\obj\Debug\Q1.pdb
