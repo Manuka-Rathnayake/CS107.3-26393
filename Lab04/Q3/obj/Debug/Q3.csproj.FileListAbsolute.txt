@@ -1,0 +1,8 @@
+C:\Data\Github\CS107.3-26393\Lab04\Q3\bin\Debug\Q3.exe.config
+C:\Data\Github\CS107.3-26393\Lab04\Q3\bin\Debug\Q3.exe
+C:\Data\Github\CS107.3-26393\Lab04\Q3\bin\Debug\Q3.pdb
+C:\Data\Github\CS107.3-26393\Lab04\Q3\obj\Debug\Q3.csproj.AssemblyReference.cache
+C:\Data\Github\CS107.3-26393\Lab04\Q3\obj\Debug\Q3.csproj.SuggestedBindingRedirects.cache
+C:\Data\Github\CS107.3-26393\Lab04\Q3\obj\Debug\Q3.csproj.CoreCompileInputs.cache
+C:\Data\Github\CS107.3-26393\Lab04\Q3\obj\Debug\Q3.exe
+C:\Data\Github\CS107.3-26393\Lab04\Q3\obj\Debug\Q3.pdb
