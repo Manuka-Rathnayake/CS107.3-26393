@@ -1,0 +1,8 @@
+C:\Data\Github\CS107.3-26393\Lab05\Q2\bin\Debug\Q2.exe.config
+C:\Data\Github\CS107.3-26393\Lab05\Q2\bin\Debug\Q2.exe
+C:\Data\Github\CS107.3-26393\Lab05\Q2\bin\Debug\Q2.pdb
+C:\Data\Github\CS107.3-26393\Lab05\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
+C:\Data\Github\CS107.3-26393\Lab05\Q2\obj\Debug\Q2.csproj.SuggestedBindingRedirects.cache
+C:\Data\Github\CS107.3-26393\Lab05\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+C:\Data\Github\CS107.3-26393\Lab05\Q2\obj\Debug\Q2.exe
+C:\Data\Github\CS107.3-26393\Lab05\Q2\obj\Debug\Q2.pdb
