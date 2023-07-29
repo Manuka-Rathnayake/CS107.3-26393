@@ -1,0 +1,3 @@
+C:\Data\Github\CS107.3-26393\Lab08\Q1\obj\Debug\Q1.csproj.AssemblyReference.cache
+C:\Data\Github\CS107.3-26393\Lab08\Q1\obj\Debug\Q1.csproj.SuggestedBindingRedirects.cache
+C:\Data\Github\CS107.3-26393\Lab08\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
